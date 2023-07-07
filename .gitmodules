@@ -1,0 +1,3 @@
+[submodule "Submaries"]
+	path = Submaries
+	url = git@github.com:learnWithZak/Submaries.git
